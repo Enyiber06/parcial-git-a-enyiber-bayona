@@ -1,0 +1,10 @@
+1.touch
+2.git config --global user.name o user.gmail
+3.echo
+4.nano
+5.mkdir
+6.ls
+7.ls -l
+8.git push
+9.git long
+10.git commit -m 

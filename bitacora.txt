@@ -1,0 +1,3 @@
+Primero cree la carpeta de mi repositorio,segundo cree un archivo vacio con touch,
+tambien le agrege texto al archivo,despues cree otros archivos de texto a los cuales le añadi su texto 
+para despues crear el repositorio con git init.
