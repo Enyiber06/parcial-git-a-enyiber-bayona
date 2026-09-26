@@ -1,0 +1,3 @@
+primero inicialice el repositorio con git init, despues usamos el comando git branch -M main para poder subir el repositorio a github
+despues usamos el comando git remote add origin con la url del repositorio y al final se escribe git push -u main
+
